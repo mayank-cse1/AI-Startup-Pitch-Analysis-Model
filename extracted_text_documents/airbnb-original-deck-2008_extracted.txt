@@ -1,0 +1,122 @@
+Welcome
+AirBed&Breakfast™
+Book rooms with locals, rather than hotels.
+
+Problem
+Price is an important concern for customers booking travel online.
+Hotels leave you disconnected from the city and its culture.
+No easy way exists to book a room with a local or become a host.
+
+Solution
+A web platform where users can rent out their space to host travelers to:
+
+SAVE MONEY
+when traveling
+
+MAKE MONEY
+when hosting
+
+SHARE CULTURE
+local connection to the city
+
+Market Validation
+Couchsurfing.com - 660,000 total users
+Craigslist.com - 50,000 temporary housing listings per week in the US. 07/09 – 07/16
+
+Market Size
+
+TRIPS BOOKED (WORLDWIDE)
+2 Billion+
+Total Available Market
+source: Travel Industry Association of America & World Tourism Organization
+
+BUDGET&ONLINE
+560M
+Serviceable Available Market
+source: comScore
+
+TRIPS W/A&B
+84M
+Share of Market
+15% of Available Market
+
+Product
+SEARCH BY CITY → REVIEW LISTINGS → BOOK IT!
+
+Business Model
+We take a 10% commission on each transaction.
+TRIPS W/A&B - $84M Share of Market 15% of Available Market
+AVG FEE - $25 $80/night @ 3 nights source: $70 is avg room price on A&B&B
+REVENUE - $2.1B Projected by 2011
+
+Adoption Strategy
+EVENTS target events monthly
+PARTNERSHIPS cheap/ alternative travel
+CRAIGSLIST dual posting feature
+
+EVENTS:
+• Oktoberfest (6M)
+• Cebit (700,000)
+• Summerfest (1M)
+• Eurocup (3M+)
+• Mardi Gras (800,000)
+
+PARTNERSHIPS:
+GoLoco
+KAYAK
+ORBITZ
+
+Competition
+AFFORDABLE
+CouchSurfing
+AirBed&Breakfast
+craigslist
+Hostels.com Every Hostel... Everywhere
+BedandBreakfast.com
+
+OFFLINE TRANSACTION
+rentoibi.com Short term housing & vacation rentals
+VRBO Vacation Rentals by owner
+
+ONLINE TRANSACTION
+rentahome HOLIDAY RENTALS & CORPORATE ACCOMMODATION
+GRBITZ
+hotels.com
+EXPENSIVE
+
+Competitive Advantages
+1st TO MARKET for transaction-based temporary housing site
+HOST INCENTIVE they can make money over couchsurfing.com
+LIST ONCE hosts post one time with us vs. daily on craigslist
+EASE OF USE search by price, location & check-in/check-out dates
+PROFILES browse host profiles, and book in 3 clicks
+DESIGN & BRAND memorable name will launch at historic DNC to gain share of mind
+
+Team
+Joe Gebbia, User Interface & PR
+Entrepreneur and designer. Holds a patent for his product, CritBuns®. A graduate of the Rhode Island School of Design (RISD), has dual BFA’s in graphic design and industrial design.
+Brian Chesky, Business Development & Brand
+Founder of Brian Chesky, Inc. industrial design consultant. A graduate of the Rhode Island School of Design (RISD), has a BFA in industrial design.
+Nathan Blecharczyk, Developer
+Created Facebook Apps: ‘Your neighbors’ (75,000 users) and ‘Rolodextrous.’ recently launched “Identified Hits”. A graduate of computer science Harvard, Nate has worked at Microsoft, OPNET Technologies, and Batiq.
+Michael Seibel Advisor
+Michael’s the CEO and co-founder of www.justin.tv, a San Francisco based venture funded start up that delivers live video to the internet.
+
+Press
+“AirBed & Breakfast is a fun approach to couch surfing.” - Webware COOL WEB 2.0 APPS FOR EVERYONE www.webware.com
+“Think of it as Craigslist meets Hotels.com, but a lot less creepy.” - JOSH SPEAR www.joshspear.com
+“A cool alternative to a boring evening in a hotel room.” - Mashable SOCIAL NETWORKING NEWS www.mashable.com
+“Airbed's fee-based service could help alleviate concerns about quality of accommodations.” - springwise.com www.springwise.com
+
+User Testimonials
+“AirBed&Breakfast freaking rocks!” Josue F. Washington, DC
+“I found something in my price-range, and that's what really enabled me to come to the conference.” Jason R. Atlanta, GA
+“A complete success. It is easy to use and it made me money.” Emily M. Austin, TX
+“It's about the ideas, the interactions, the people. You don't get that in a hotel room” Dan A. Ontario, Canada
+
+Financial
+We are looking for 12 months financing to reach 80,000 transactions on AirBed&Breakfast.
+
+ANGEL ROUND - $500K initial investment opportunity
+TRIPS W/A&B - 80K avg $25 fee
+REVENUE - $2M over 12 months
