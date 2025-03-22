@@ -85,7 +85,7 @@ streamlit run ui.py
 
 ## Project Structure
 ```
-AI-Pitch-Analysis
+AI-Pitch-Analysis/src
 │── app.py          # Main application entry point
 │── model.py        # LLM-based scoring model implementation
 │── ui.py           # Streamlit UI for pitch evaluation
@@ -107,7 +107,11 @@ AI-Pitch-Analysis
 ## 📌 Example Output  
 ```
 Overall Pitch Score: 78.5/100
+
 ```
+![WhatsApp Image 2025-03-22 at 19 26 24_27a55d70](https://github.com/user-attachments/assets/33e5dbfc-c4d3-4891-9119-e98021a74e3b)
+![WhatsApp Image 2025-03-22 at 19 29 11_8cbcf6ff](https://github.com/user-attachments/assets/23b9db1f-dbcc-4fdf-9dc5-95700fd75b98)
+
 
 ## Future Enhancements
 - **Fine-tune the scoring model** for more accurate pitch evaluation.
